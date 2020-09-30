@@ -37,4 +37,4 @@ arr[i] = Integer.parseInt(input[i]);
 		
 	}
 }
-}
+}test
